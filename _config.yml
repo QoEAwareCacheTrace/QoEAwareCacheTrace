@@ -2,5 +2,5 @@ title: QoE-aware Content Caching for Content Delivery Networks
 # logo: /assets/img/logo.png
 description: Index Terms - content delivery networks, content caching, quality of experience, content fetching delay
 show_downloads: false
-# google_analytics:
+google_analytics: UA-68278825-2
 theme: jekyll-theme-minimal
